@@ -1,4 +1,4 @@
-## Team of One
+## Team of One  
 
-Name: TronArizona
+Name: TronArizona   
 Role: Learn Things
